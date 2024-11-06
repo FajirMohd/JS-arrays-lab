@@ -6,3 +6,6 @@ const person = {
     hasBeard: false,
     }
 
+    person.ishungry = true
+person.hasbeard = false
+console.log(person)
